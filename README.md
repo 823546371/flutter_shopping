@@ -12,9 +12,9 @@ The Page page is mainly for horizontal classification and the following product 
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/NEiy6-XWO8o)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1kK411p7tZ/)
 
 ### UI 
  - Design by： Online shopping app UI  [link]( https://www.uplabs.com/posts/online-shopping-app-ui-974e28f2-dbc8-4d6b-90fd-cf0f0727f350)  
